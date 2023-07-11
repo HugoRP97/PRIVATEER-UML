@@ -1,0 +1,78 @@
+''
+'' PRIVATEER THEME
+'' 
+
+
+skinparam shadowing false
+skinparam RoundCorner 7
+skinparam ArrowColor 454645
+skinparam FontColor 454645
+skinparam SequenceLifeLineBorderColor 454645
+skinparam SequenceGroupHeaderFontColor 454645
+skinparam SequenceGroupFontColor 454645
+skinparam SequenceGroupBorderColor 381E47
+skinparam SequenceGroupBorderThickness 1
+
+skinparam sequenceDivider {
+    BorderColor 454645
+    BorderThickness 1
+    FontColor 454645
+}
+
+skinparam participant {
+    BackgroundColor 381E47
+    BorderColor CCCCCC
+    FontColor White
+    BorderThickness 1.5
+}
+
+skinparam database {
+    BackgroundColor 2FBB1D
+    BorderColor aaaaaa
+    FontColor 454645
+}
+
+skinparam entity {
+    BackgroundColor 2FBB1D
+    BorderColor aaaaaa
+    FontColor 454645
+}
+
+skinparam note {
+    BackgroundColor 2FBB1D
+    BorderColor aaaaaa
+    FontColor White
+    BorderThickness 1
+}
+
+skinparam actor {
+    BackgroundColor CCCCCC
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam boundary {
+    BackgroundColor 2FBB1D
+    BorderColor aaaaaa
+    FontColor 454645
+}
+
+skinparam control {
+    BackgroundColor 2FBB1D
+    BorderColor aaaaaa
+    FontColor 454645
+}
+
+skinparam collections {
+    BackgroundColor 381E47
+    BorderColor CCCCCC
+    FontColor White
+    BorderThickness 1.5
+}
+
+skinparam queue {
+    BackgroundColor 381E47
+    BorderColor CCCCCC
+    FontColor White
+    BorderThickness 1.5
+}
